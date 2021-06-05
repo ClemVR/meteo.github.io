@@ -1,6 +1,6 @@
 import tabDayOrder from "./inc/js/time.js";
 let resultAPI;
-const APIKey = "fa8d7cb53db7f5bb33e6293579a143c5";
+const APIKey = "";
 const temps = document.querySelector(".temps");
 const temperature = document.querySelector(".temperature");
 const localisation = document.querySelector(".localisation");
